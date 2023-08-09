@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae2yong&show_icons=true&theme=radical)
 
 </div>
